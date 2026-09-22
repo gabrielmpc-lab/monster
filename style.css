@@ -100,8 +100,7 @@ footer{
     }
 
     .promo{
-        position: absolute;
-        right: 790px;
+
         display: flex;
         color: white;
         font-size: 20px;
